@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://taskforcerandom.github.io/wiki</id>
-    <title>wiki</title>
-    <link href="https://taskforcerandom.github.io/wiki" />
+    <id>https://taskforcerandom.github.io/library</id>
+    <title>tfr-library</title>
+    <link href="https://taskforcerandom.github.io/library" />
     <updated>2024-09-07T06:03:48.000Z</updated>
     <category term="wiki" />
     <category term="gdi" />
     <category term="baiku_initiative_group" />
     <entry>
-        <id>https://taskforcerandom.github.io/wiki/2024/09/07/gdi/baiku_initiative_group/conference/</id>
+        <id>https://taskforcerandom.github.io/library/gdi/baiku_initiative_group/conference/</id>
         <title>conference Question de l&#39;Occupation illegale de l&#39;ile comorienne de Mayotte</title>
-        <link rel="alternate" href="https://taskforcerandom.github.io/wiki/2024/09/07/gdi/baiku_initiative_group/conference/"/>
+        <link rel="alternate" href="https://taskforcerandom.github.io/library/gdi/baiku_initiative_group/conference/"/>
         <content type="html">&lt;p&gt;Liste des personnes presentes lors de la conference internationale sur la “Question de l’Occupation illegale de l’ile comorienne de Mayotte”:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://x.com/ayten63531652?lang=en&#34;&gt;Aytan Gahraman&lt;/a&gt;&lt;/li&gt;
@@ -49,9 +49,9 @@
         <updated>2024-09-07T06:03:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://taskforcerandom.github.io/wiki/2024/09/07/gdi/baiku-initiative-group/</id>
+        <id>https://taskforcerandom.github.io/library/gdi/baiku-initiative-group/</id>
         <title>baiku_initiative_group</title>
-        <link rel="alternate" href="https://taskforcerandom.github.io/wiki/2024/09/07/gdi/baiku-initiative-group/"/>
+        <link rel="alternate" href="https://taskforcerandom.github.io/library/gdi/baiku-initiative-group/"/>
         <content type="html">&lt;p&gt;l’auteur originel de l’article est alphaleadership&lt;br&gt;on contribuée a cette article :alphaleadership&lt;/p&gt;
 </content>
         <category term="wiki" />
@@ -59,18 +59,18 @@
         <updated>2024-09-07T06:00:15.000Z</updated>
     </entry>
     <entry>
-        <id>https://taskforcerandom.github.io/wiki/2024/09/07/gdi/</id>
+        <id>https://taskforcerandom.github.io/library/gdi/</id>
         <title>gdi</title>
-        <link rel="alternate" href="https://taskforcerandom.github.io/wiki/2024/09/07/gdi/"/>
+        <link rel="alternate" href="https://taskforcerandom.github.io/library/gdi/"/>
         <content type="html">&lt;p&gt;dans cette catégorie vous trouverez tout les principaux groupe d’ingérence ou de désinformation connu&lt;br&gt;l’auteur originel de l’article est alphaleadership&lt;br&gt;on contribuée a cette article :alphaleadership&lt;/p&gt;
 </content>
         <category term="wiki" />
         <updated>2024-09-07T05:59:35.000Z</updated>
     </entry>
     <entry>
-        <id>https://taskforcerandom.github.io/wiki/2024/08/30/source/</id>
+        <id>https://taskforcerandom.github.io/library/source/</id>
         <title>source et outil</title>
-        <link rel="alternate" href="https://taskforcerandom.github.io/wiki/2024/08/30/source/"/>
+        <link rel="alternate" href="https://taskforcerandom.github.io/library/source/"/>
         <content type="html">&lt;h1 id=&#34;outil-osint&#34;&gt;&lt;a href=&#34;#outil-osint&#34; class=&#34;headerlink&#34; title=&#34;outil osint&#34;&gt;&lt;/a&gt;outil osint&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.marinetraffic.com/en/ais/home/centerx:-24.3/centery:49.6/zoom:3&#34;&gt;MARINE TRAFFIC,Permet de voir le traffic marine &lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://www.marinevesseltraffic.com/&#34;&gt;MARINE TRAFFIC V2,Permet de voir le traffic marine mais en mieux&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://www.flightradar24.com/&#34;&gt;FLIGHT RADAR,Traffic aerien&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://liveuamap.com/ru&#34;&gt;LIVE UKR MAP,Carte live de guerre Ukraine&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://www.nato.int/&#34;&gt;NATO INTEL&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://www.understandingwar.org/map-room&#34;&gt;UNDERSTANDING WAR,Serie de documents permettant de mieux comprendre les conflits&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/paperpanda-%E2%80%94-get-millions/ggjlkinaanncojaippgbndimlhcdlohf?utm_source=web&#34;&gt;PAPER PANDA,Extension chrome permettant d’obtenir une etude&amp;#x2F;article gratuitement&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://birdhunt.huntintel.io/&#34;&gt;BIRD HUNT,Permet de faire des recherches geolocated sur twitter&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;source-complotisme&#34;&gt;&lt;a href=&#34;#source-complotisme&#34; class=&#34;headerlink&#34; title=&#34;source complotisme&#34;&gt;&lt;/a&gt;source complotisme&lt;/h1&gt;&lt;h2 id=&#34;chemtrails&#34;&gt;&lt;a href=&#34;#chemtrails&#34; class=&#34;headerlink&#34; title=&#34;chemtrails&#34;&gt;&lt;/a&gt;chemtrails&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://iopscience.iop.org/article/10.1088/1748-9326/11/8/084011#skip-to-content-link-target&#34;&gt;Etude du 10 aout 2015&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://iopscience.iop.org/article/10.1088/1748-9326/11/8/084011/meta&#34;&gt;Chemtrails vs Consensus scientifique&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://keith.seas.harvard.edu/chemtrails-conspiracy-theory&#34;&gt;Chemtrails vs Groupe de recherche geoingeniérie d’Harvard&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;Cloud-seeding&#34;&gt;&lt;a href=&#34;#Cloud-seeding&#34; class=&#34;headerlink&#34; title=&#34;Cloud seeding&#34;&gt;&lt;/a&gt;Cloud seeding&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://now.northropgrumman.com/making-rain-science-weather-manipulation&#34;&gt;Explictation du procédé de cloud seeding&lt;/a&gt;&lt;/p&gt;
@@ -97,9 +97,9 @@
         <updated>2024-08-30T06:05:09.000Z</updated>
     </entry>
     <entry>
-        <id>https://taskforcerandom.github.io/wiki/2024/08/17/temp/</id>
+        <id>https://taskforcerandom.github.io/library/temp/</id>
         <title>les cn légendaire</title>
-        <link rel="alternate" href="https://taskforcerandom.github.io/wiki/2024/08/17/temp/"/>
+        <link rel="alternate" href="https://taskforcerandom.github.io/library/temp/"/>
         <content type="html">&lt;p&gt;&lt;a href=&#34;https://x.com/i/birdwatch/t/1828808137249312850&#34;&gt;la source : le dico&lt;/a&gt;&lt;br&gt;l’auteur originel de l’article est alphaleadership&lt;br&gt;on contribuée a cette article :alphaleadership&lt;/p&gt;
 </content>
         <updated>2024-08-17T09:29:39.000Z</updated>

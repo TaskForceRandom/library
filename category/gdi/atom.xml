@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://taskforcerandom.github.io/wiki</id>
-    <title>wiki • Posts by &#34;gdi&#34; category</title>
-    <link href="https://taskforcerandom.github.io/wiki" />
+    <id>https://taskforcerandom.github.io/library</id>
+    <title>tfr-library • Posts by &#34;gdi&#34; category</title>
+    <link href="https://taskforcerandom.github.io/library" />
     <updated>2024-09-07T06:03:48.000Z</updated>
     <category term="wiki" />
     <category term="gdi" />
     <category term="baiku_initiative_group" />
     <entry>
-        <id>https://taskforcerandom.github.io/wiki/2024/09/07/gdi/baiku_initiative_group/conference/</id>
+        <id>https://taskforcerandom.github.io/library/gdi/baiku_initiative_group/conference/</id>
         <title>conference Question de l&#39;Occupation illegale de l&#39;ile comorienne de Mayotte</title>
-        <link rel="alternate" href="https://taskforcerandom.github.io/wiki/2024/09/07/gdi/baiku_initiative_group/conference/"/>
+        <link rel="alternate" href="https://taskforcerandom.github.io/library/gdi/baiku_initiative_group/conference/"/>
         <content type="html">&lt;p&gt;Liste des personnes presentes lors de la conference internationale sur la “Question de l’Occupation illegale de l’ile comorienne de Mayotte”:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://x.com/ayten63531652?lang=en&#34;&gt;Aytan Gahraman&lt;/a&gt;&lt;/li&gt;
@@ -49,9 +49,9 @@
         <updated>2024-09-07T06:03:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://taskforcerandom.github.io/wiki/2024/09/07/gdi/baiku-initiative-group/</id>
+        <id>https://taskforcerandom.github.io/library/gdi/baiku-initiative-group/</id>
         <title>baiku_initiative_group</title>
-        <link rel="alternate" href="https://taskforcerandom.github.io/wiki/2024/09/07/gdi/baiku-initiative-group/"/>
+        <link rel="alternate" href="https://taskforcerandom.github.io/library/gdi/baiku-initiative-group/"/>
         <content type="html">&lt;p&gt;l’auteur originel de l’article est alphaleadership&lt;br&gt;on contribuée a cette article :alphaleadership&lt;/p&gt;
 </content>
         <category term="wiki" />
